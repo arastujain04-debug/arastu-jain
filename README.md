@@ -78,3 +78,21 @@ public class Factorial {
         System.out.println(factorial(5));
     }
 }
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        form {
+            width: 300px;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+    <form>
+        <input type="text" placeholder="Username"><br><br>
+        <input type="password" placeholder="Password"><br><br>
+        <button>Login</button>
+    </form>
+</body>
+</html>
